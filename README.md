@@ -1,7 +1,7 @@
 # NTPclock_ESP32C3_ST7789
 # based on AI work fou used IPS 240x240 display with ST7789 driver
 
-![real](https://github.com/tehniq3/NTPclock_ESP32C3_ST7789/blob/main/NTPclock_ESP32C3Mini_240x240_ST7789.heic)
+![real](https://github.com/tehniq3/NTPclock_ESP32C3_ST7789/blob/main/NTPclock_ESP32C3Mini_240x240_ST7789.png))
 
 #define TFT_MOSI 7
 
