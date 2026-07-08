@@ -1,5 +1,5 @@
 # NTPclock_ESP32C3_ST7789
-based on AI work
+# based on AI work fou used IPS 240x240 display with ST7789 driver
 
 
 
